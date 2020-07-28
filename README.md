@@ -4,6 +4,6 @@ I'm a Software Developer from the UK, also the founder of [Hawk](https://hawk.gg
 
 - ⚡ Founder & CEO of [Hawk](https://hawk.gg)
 - 💼 Full time PHP Developer at [Textlocal](https://textlocal.com)
-- 🌱 I'm currently learning Laravel and [Serverless (Vapor)](https://vapor.laravel.com/) infrastructure (for enterprise).
+- 🌱 I'm currently learning [Laravel](https://laravel.com) and [Serverless (Vapor)](https://vapor.laravel.com/) infrastructure (for enterprise).
 - 📫 Contact me: [me@ericscott.co.uk](mailto:me@ericscott.co.uk)
 - 💻 Personal website: [https://ericscott.co.uk](https://ericscott.co.uk)
