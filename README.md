@@ -1,6 +1,6 @@
 # Hey, I'm Eric 👋
 
-I'm a Software Developer from the UK. Started programming at 12 and haven't stopped since.
+I'm a Software Developer from the UK. Started programming at 13 and haven't stopped since.
 
 - 💼 Full time PHP Developer at [Textlocal](https://textlocal.com)
 - 🌱 I'm currently learning [Laravel Vapor](https://vapor.laravel.com/).
